@@ -1,0 +1,20 @@
+.centre{
+    position:relative;
+    align-items: center;
+    
+}
+
+.main-div{
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center;
+    padding: 250px;
+}
+
+.move{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* horizontal center */
+    align-items: center;
+    border: 1px solid black;
+}
